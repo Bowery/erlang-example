@@ -1,0 +1,8 @@
+{application, bowery_example, [
+        {description, "Bowery Example Application"},
+        {vsn, "0.0.1"},
+        {modules, []},
+        {registered, []},
+        {applications, [kernel, stdlib, crypto]},
+        {env, []}
+    ]}.

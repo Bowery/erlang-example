@@ -1,0 +1,9 @@
+{
+  "web": {
+    "image": "erlang",
+    "path": "web",
+    "ports": [
+      8001
+    ]
+  }
+}
